@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <div>
         <a href="https://superzekes.com" target="_blank">
-          <img src="https://superzekes.com/images/superzekes.png" className="logo" alt="SuperZekes Icon" />
+          <img src="https://superzekes.com/images/profile.png" className="logo" alt="SuperZekes Icon" />
         </a>
 
       </div>
